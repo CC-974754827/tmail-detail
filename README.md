@@ -11,5 +11,5 @@
 /*为了方便，以图片及切图的方式展现*/
 ```
 ![Image text](https://github.com/CC-974754827/tmail-detail/blob/master/readmeImgs/%E5%9B%BE%E7%89%872.png)
-![Image text](https://github.com/CC-974754827/tmail-detail/blob/master/readmeImgs/%E5%9B%BE%E7%89%872.png)
+![Image text](https://github.com/CC-974754827/tmail-detail/blob/master/readmeImgs/%E5%9B%BE%E7%89%873.png)
 
