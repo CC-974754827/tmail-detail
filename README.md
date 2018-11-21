@@ -13,3 +13,10 @@
 ![Image text](https://github.com/CC-974754827/tmail-detail/blob/master/readmeImgs/%E5%9B%BE%E7%89%872.png)
 ![Image text](https://github.com/CC-974754827/tmail-detail/blob/master/readmeImgs/%E5%9B%BE%E7%89%873.png)
 
+总结
+```
+该项目目前只限于简单的HTML与CSS
+所以，所呈现出来的完全为静态页面
+在后期学习JavaScript后，即可涉及动态且响应式页面
+↖(^ω^)↗
+```
